@@ -1,0 +1,16 @@
+[package]
+name = "graphics_pip"
+version = "0.1.0"
+authors = ["Fletcher_Drew"]
+
+[dependencies]
+vulkano = "0.10"
+vulkano-shader-derive = "0.10.0"
+vulkano-glyph = "0.2.0"
+image = "0.19"
+vulkano-win = "0.10"
+winit = "0.17"
+cgmath = "0.16.1"
+time = "0.1.37"
+rusttype = "0.7.2"
+rand = "0.6.1"
